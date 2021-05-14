@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>F2 module</h1>
+<h1>F2 module--mod</h1>
 </body>
 </html>
